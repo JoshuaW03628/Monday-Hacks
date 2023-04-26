@@ -12,14 +12,14 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <source srcset="/Users/josh/Monday-Hacks/images/cornball.jpg" media="(min-width: 600px)">
+              <img src="/Users/josh/Monday-Hacks/images/cornball.jpg" alt="Cornball_Photo">
             </picture>
             <div class="content">
-              <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+              <p class="detail">Mr.Mortenson P.4</p>
+                <h1>Joshua Williams</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                My name is Josh, I am a Junior at Del Norte and this class was my first ever coding experience outside of Scratch coding.
               </p>
               <a href="https://pages.github.com/" class="button"></a>
             </div>
