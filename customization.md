@@ -13,7 +13,7 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="/Users/josh/Monday-Hacks/images/cornball.jpg" media="(min-width: 600px)">
+              <source srcset="/Users/josh/Monday-Hacks/images/cornball.jpg" media="(min-width: 300px)">
               <img src="/Users/josh/Monday-Hacks/images/cornball.jpg" alt="Cornball_Photo">
             </picture>
             <div class="content">
