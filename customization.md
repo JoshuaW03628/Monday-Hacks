@@ -22,7 +22,7 @@
               <p>
                 My name is Josh, I am a Junior at Del Norte and this class was my first ever coding experience outside of Scratch coding.
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://github.com/JoshuaW03628/Repository-1" class="button"></a>
             </div>
           </article>
         </main>

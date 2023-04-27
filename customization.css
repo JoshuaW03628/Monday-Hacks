@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: hsl(30, 38%, 92%);
+    background-color: hsl(0, 0%, 100%);
     font-family: var(--font-family-primary);
     font-weight: var(--font-weight-reg);
     font-size: 0.875rem;
@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-    color: hsl(284, 100%, 65%);
+    color: hsl(0, 0%, 0%);
     font-size: 2rem;
     font-family: var(--font-family-secondary);
     line-height: 1;
@@ -59,14 +59,14 @@ p {
     font-size: 14px;
     font-family: var(--font-family-primary);
     font-weight: var(--font-weight-bold);
-    color: hsl(308, 67%, 56%);
+    color: hsl(0, 0%, 0%);
 }
 
 .button{
     display: inline-block;
     text-decoration: none;
-    color: #f00808;
-    border: 1px solid #6f0505;
+    color: #000000;
+    border: 1px solid #ffffff;
     padding: 12px 34px;
     font-size: 13px;
     background: transparent;
